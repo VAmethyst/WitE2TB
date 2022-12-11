@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WitE2TB</string>
+
+    <string name="western_europe">Western Europe</string>
+    <string name="norway">Norway</string>
+    <string name="finland">Finland</string>
+    <string name="north_africa">North Africa</string>
+    <string name="italy">Italy</string>
+    <string name="balkans">Balkans</string>
+    <string name="su_garrison">SU Garrison</string>
+
+
+    <string name="button_prev">Prev</string>
+    <string name="button_next">Next</string>
+    <string name="button_calculate">Calculate</string>
+
+</resources>
